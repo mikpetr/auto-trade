@@ -1,0 +1,23 @@
+{
+  "name": "auto-trade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikpetr/auto-trade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikpetr/auto-trade/issues"
+  },
+  "homepage": "https://github.com/mikpetr/auto-trade#readme",
+  "dependencies": {
+    "mongoose": "^5.0.12",
+    "yahoo-stocks": "^2.0.1"
+  }
+}
